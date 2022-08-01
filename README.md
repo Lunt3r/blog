@@ -1,2 +1,1 @@
-# blog
-301 redirect
+# blog images
